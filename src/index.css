@@ -4,7 +4,11 @@ body {
 }
 
 ol, ul {
-  padding-left: 30px;
+  padding-left: 0;
+}
+li {
+  list-style-type: none;
+  margin-top: 5px;
 }
 
 .board-row:after {
