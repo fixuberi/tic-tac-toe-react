@@ -35,6 +35,9 @@ li {
   text-align: center;
   width: 34px;
 }
+.highlighted {
+  background-color: red;
+}
 
 .square:focus {
   outline: none;
